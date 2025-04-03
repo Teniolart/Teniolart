@@ -11,8 +11,8 @@
 🔹 **[My Portfolio](your-portfolio-link-here)** – Built with HTML & CSS (Responsive)  
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://www.linkedin.com/in/teniola-ogunrinde-847678195/)  
-[![Twitter](https://twitter.com/oluwa10iolaa)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teniola-ogunrinde-847678195/)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/oluwa10iolaa)  
 
 ---
 ⭐️ **Currently improving my JavaScript skills and exploring open-source projects!**  
