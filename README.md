@@ -8,7 +8,7 @@
 - Currently learning JavaScript  
 
 ## 📂 Featured Projects  
-🔹 **[My Portfolio]([github.com/Teniolart/portfolio](https://teniolart.github.io/portfolio/))** – Built with HTML & CSS (Responsive)  
+🔹 **[My Portfolio](https://teniolart.github.io/portfolio/)** – Built with HTML & CSS (Responsive)  
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teniola-ogunrinde-847678195/)  
